@@ -1,0 +1,810 @@
+{
+  "magasin": [
+    {
+      "infosMagasin": {
+        "codeMagasin": "35363",
+        "codeAssocie": "35363",
+        "nomMagasin": "CANCALLR",
+        "telephoneContact": "0299898940",
+        "emailContact": "superu.cancale@systeme-u.fr",
+        "codeRegionSU": "03",
+        "libelleRegionSU": "Coopérative Système U Ouest",
+        "codeEnseigne": "SU",
+        "libelleEnseigne": "Super U",
+        "codeDepartement": "35",
+        "libelleDepartement": "",
+        "codeGEP": "14",
+        "libelleGEP": "Calvados",
+        "adresseL1": "ESPACE COMMERCIALE EMERAUDE",
+        "adresseL2": "RUE DE LA BRETONNIERE",
+        "codePostal": "35260",
+        "ville": "CANCALE",
+        "estActif": "1",
+        "latitudeLambert2": 0,
+        "longitudeLambert2": 0,
+        "latitudeGPS": 48.6796,
+        "longitudeGPS": -1.86743,
+        "codeFormeSociale": "SASU",
+        "raisonSocialeAssocie": "LH DISCAN",
+        "telephone": "0299898940",
+        "codeCooperativeAssociee": "",
+        "libelleCooperativeAssociee": "",
+        "adresseSiegeSocialeL1": "La Bretonniere",
+        "adresseSiegeSocialeL2": "",
+        "codePostalSiegeSocial": "35260",
+        "villeSiegeSocial": "CANCALE",
+        "capitalSocial": 363834.0,
+        "codeRegionAdministrative": "6",
+        "libelleRegionAdministrative": "Bretagne",
+        "codeRegimeTVA": "A",
+        "libelleRegimeTVA": "Régime normal",
+        "dateOuverture": "0001-01-01",
+        "dateFermeture": "0001-01-01",
+        "faxSiegeSocial": "",
+        "fuseauHoraire": "UTC+01:00",
+        "numeroTVAIntracommunautaire": "FR52389971797",
+        "numeroSiret": "38997179700029",
+        "numeroSiren": "389971797",
+        "sousContexteUrl": "superFFu-cancale-alr23",
+        "telephoneSiegeSocial": "",
+        "villeGreffe": "SAINT MALO",
+        "lienFacebook": "https://www.facebook.com/SuperUCFFncale/?ref\u003dts\u0026fref\u003dts",
+        "codeTypologie": "002",
+        "libelleTypologie": "Saisonniers (magasins qui ont une influence saisonnière, pas saisonniers)",
+        "coursesU": "1",
+        "codeInfluenceSaisonniere": "SE",
+        "libelleInfluenceSaisonniere": "Saisonnier estival",
+        "futurCodeEnseigne": "",
+        "datefuturEnseigne": "0001-01-01",
+        "codeBassinConsommation": "E01",
+        "libelleBassinConsommation": "ALPES DU NORD",
+        "codeBassinSecondaire": "E01",
+        "libelleBassinSecondaire": "ALPES DU NORD",
+        "codeVocationMagasin": "ATT",
+        "flagCarteU": "1",
+        "surface": 3400,
+        "datePrevChgtSurface": "2021-12-20",
+        "futurSurfaceAdmin": 3400,
+        "codeTrancheSurfaceEnseigne": "",
+        "codeTrancheSurface": "T40",
+        "flagRadioU": "1",
+        "dateAdhesionCarteU": "2009-10-01",
+        "dateFinAdhesionCarteU": "9999-12-31",
+        "libelleTrancheSurface": "[ 1000 - 1600 m² [ ( Enseigne Super)",
+        "libelleTrancheSurfaceEnseigne": "",
+        "libelleVocationMagasin": "Attraction",
+        "codeTimeZone": "001",
+        "libelleTimeZone": "Europe/Paris"
+      },
+      "horaires": [
+        {
+          "numJour": 1,
+          "heureOuvertureMatin": "09.00",
+          "heureFermetureMatin": "00.00",
+          "heureOuvertureApresMidi": "00.00",
+          "heureFermetureApresMidi": "19.30"
+        },
+        {
+          "numJour": 2,
+          "heureOuvertureMatin": "09.00",
+          "heureFermetureMatin": "00.00",
+          "heureOuvertureApresMidi": "00.00",
+          "heureFermetureApresMidi": "19.30"
+        },
+        {
+          "numJour": 3,
+          "heureOuvertureMatin": "09.00",
+          "heureFermetureMatin": "00.00",
+          "heureOuvertureApresMidi": "00.00",
+          "heureFermetureApresMidi": "19.30"
+        },
+        {
+          "numJour": 4,
+          "heureOuvertureMatin": "09.00",
+          "heureFermetureMatin": "00.00",
+          "heureOuvertureApresMidi": "00.00",
+          "heureFermetureApresMidi": "19.30"
+        },
+        {
+          "numJour": 5,
+          "heureOuvertureMatin": "09.00",
+          "heureFermetureMatin": "00.00",
+          "heureOuvertureApresMidi": "00.00",
+          "heureFermetureApresMidi": "20.00"
+        },
+        {
+          "numJour": 6,
+          "heureOuvertureMatin": "09.00",
+          "heureFermetureMatin": "00.00",
+          "heureOuvertureApresMidi": "00.00",
+          "heureFermetureApresMidi": "19.30"
+        },
+        {
+          "numJour": 7,
+          "heureOuvertureMatin": "00.00",
+          "heureFermetureMatin": "00.00",
+          "heureOuvertureApresMidi": "00.00",
+          "heureFermetureApresMidi": "00.00"
+        }
+      ],
+      "siteLocal": [
+        {
+          "codeSite": "MAG",
+          "libelleSite": "Magasin",
+          "urlSite": "www.sFFuperu-cancale-alr24.com"
+        }
+      ],
+      "evenements": [],
+      "services": [
+        {
+          "identifiant": "71",
+          "libelleService": "Borne de recharge pour voiture électrique",
+          "cdTypeService": "STA",
+          "lbTypeService": "Station",
+          "delivreService": "1",
+          "eService": "0",
+          "commentaireService": "",
+          "numeroOrdreService": 20
+        },
+        {
+          "identifiant": "19",
+          "libelleService": "Pharmacie",
+          "cdTypeService": "GAL",
+          "lbTypeService": "Galerie",
+          "delivreService": "1",
+          "eService": "0",
+          "commentaireService": "",
+          "numeroOrdreService": 4
+        },
+        {
+          "identifiant": "13",
+          "libelleService": "Pressing",
+          "cdTypeService": "GAL",
+          "lbTypeService": "Galerie",
+          "delivreService": "1",
+          "eService": "0",
+          "commentaireService": "",
+          "numeroOrdreService": 2
+        },
+        {
+          "identifiant": "15",
+          "libelleService": "Cordonnerie",
+          "cdTypeService": "GAL",
+          "lbTypeService": "Galerie",
+          "delivreService": "1",
+          "eService": "0",
+          "commentaireService": "",
+          "numeroOrdreService": 3
+        },
+        {
+          "identifiant": "44",
+          "libelleService": "Service SAV",
+          "cdTypeService": "SAV",
+          "lbTypeService": "SAV",
+          "delivreService": "1",
+          "eService": "0",
+          "commentaireService": "",
+          "numeroOrdreService": 44
+        },
+        {
+          "identifiant": "60",
+          "libelleService": "Sandwich et Snack",
+          "cdTypeService": "GAL",
+          "lbTypeService": "Galerie",
+          "delivreService": "1",
+          "eService": "0",
+          "commentaireService": "",
+          "numeroOrdreService": 6
+        },
+        {
+          "identifiant": "16",
+          "libelleService": "Coiffeur",
+          "cdTypeService": "GAL",
+          "lbTypeService": "Galerie",
+          "delivreService": "1",
+          "eService": "0",
+          "commentaireService": "",
+          "numeroOrdreService": 1
+        },
+        {
+          "identifiant": "68",
+          "libelleService": "Parking gratuit",
+          "cdTypeService": "PAR",
+          "lbTypeService": "Parking",
+          "delivreService": "1",
+          "eService": "0",
+          "commentaireService": "",
+          "numeroOrdreService": 22
+        },
+        {
+          "identifiant": "67",
+          "libelleService": "Parking couvert",
+          "cdTypeService": "PAR",
+          "lbTypeService": "Parking",
+          "delivreService": "1",
+          "eService": "0",
+          "commentaireService": "",
+          "numeroOrdreService": 21
+        },
+        {
+          "identifiant": "58",
+          "libelleService": "Laverie automatique",
+          "cdTypeService": "GAL",
+          "lbTypeService": "Galerie",
+          "delivreService": "1",
+          "eService": "0",
+          "commentaireService": "",
+          "numeroOrdreService": 5
+        },
+        {
+          "identifiant": "79",
+          "libelleService": "Carte Cadeau",
+          "cdTypeService": "MAG",
+          "lbTypeService": "Magasin",
+          "delivreService": "1",
+          "eService": "0",
+          "commentaireService": "",
+          "numeroOrdreService": 42
+        },
+        {
+          "identifiant": "11",
+          "libelleService": "Brasserie / Caféteria",
+          "cdTypeService": "GAL",
+          "lbTypeService": "Galerie",
+          "delivreService": "1",
+          "eService": "0",
+          "commentaireService": "",
+          "numeroOrdreService": 9
+        },
+        {
+          "identifiant": "20",
+          "libelleService": "Parapharmacie",
+          "cdTypeService": "GAL",
+          "lbTypeService": "Galerie",
+          "delivreService": "1",
+          "eService": "0",
+          "commentaireService": "",
+          "numeroOrdreService": 10
+        },
+        {
+          "identifiant": "35",
+          "libelleService": "Wifi",
+          "cdTypeService": "LSE",
+          "lbTypeService": "Libre Service",
+          "delivreService": "1",
+          "eService": "0",
+          "commentaireService": "",
+          "numeroOrdreService": 41
+        },
+        {
+          "identifiant": "17",
+          "libelleService": "Opticien",
+          "cdTypeService": "GAL",
+          "lbTypeService": "Galerie",
+          "delivreService": "1",
+          "eService": "0",
+          "commentaireService": "",
+          "numeroOrdreService": 7
+        },
+        {
+          "identifiant": "18",
+          "libelleService": "Parfumerie",
+          "cdTypeService": "GAL",
+          "lbTypeService": "Galerie",
+          "delivreService": "1",
+          "eService": "0",
+          "commentaireService": "",
+          "numeroOrdreService": 11
+        },
+        {
+          "identifiant": "57",
+          "libelleService": "Institut de beauté",
+          "cdTypeService": "GAL",
+          "lbTypeService": "Galerie",
+          "delivreService": "1",
+          "eService": "0",
+          "commentaireService": "",
+          "numeroOrdreService": 12
+        },
+        {
+          "identifiant": "12",
+          "libelleService": "Française des jeux",
+          "cdTypeService": "GAL",
+          "lbTypeService": "Galerie",
+          "delivreService": "1",
+          "eService": "0",
+          "commentaireService": "",
+          "numeroOrdreService": 8
+        },
+        {
+          "identifiant": "25",
+          "libelleService": "Presse",
+          "cdTypeService": "MAG",
+          "lbTypeService": "Magasin",
+          "delivreService": "1",
+          "eService": "0",
+          "commentaireService": "",
+          "numeroOrdreService": 13
+        },
+        {
+          "identifiant": "1019",
+          "libelleService": "Service Financement",
+          "cdTypeService": "MAG",
+          "lbTypeService": "magasin",
+          "delivreService": "1",
+          "eService": "0",
+          "commentaireService": "",
+          "numeroOrdreService": 43
+        },
+        {
+          "identifiant": "64",
+          "libelleService": "U Location Festif",
+          "cdTypeService": "MAG",
+          "lbTypeService": "Magasin",
+          "delivreService": "1",
+          "eService": "1",
+          "commentaireService": "",
+          "numeroOrdreService": 3
+        },
+        {
+          "identifiant": "40",
+          "libelleService": "U Technologies",
+          "cdTypeService": "MAG",
+          "lbTypeService": "Magasin",
+          "delivreService": "1",
+          "eService": "0",
+          "commentaireService": "",
+          "numeroOrdreService": 10
+        },
+        {
+          "identifiant": "49",
+          "libelleService": "U Traiteur",
+          "cdTypeService": "MAG",
+          "lbTypeService": "Magasin",
+          "delivreService": "1",
+          "eService": "1",
+          "commentaireService": "",
+          "numeroOrdreService": 8
+        },
+        {
+          "identifiant": "2",
+          "libelleService": "Courses U",
+          "cdTypeService": "MAG",
+          "lbTypeService": "Magasin",
+          "delivreService": "0",
+          "eService": "1",
+          "commentaireService": "",
+          "numeroOrdreService": 1
+        },
+        {
+          "identifiant": "48",
+          "libelleService": "U Location véhicule",
+          "cdTypeService": "MAG",
+          "lbTypeService": "Magasin",
+          "delivreService": "1",
+          "eService": "1",
+          "commentaireService": "",
+          "numeroOrdreService": 2
+        },
+        {
+          "identifiant": "4",
+          "libelleService": "U Billetterie",
+          "cdTypeService": "MAG",
+          "lbTypeService": "Magasin",
+          "delivreService": "1",
+          "eService": "1",
+          "commentaireService": "",
+          "numeroOrdreService": 5
+        },
+        {
+          "identifiant": "3",
+          "libelleService": "U Photo",
+          "cdTypeService": "MAG",
+          "lbTypeService": "Magasin",
+          "delivreService": "1",
+          "eService": "1",
+          "commentaireService": "",
+          "numeroOrdreService": 6
+        },
+        {
+          "identifiant": "38",
+          "libelleService": "U Fleurs",
+          "cdTypeService": "MAG",
+          "lbTypeService": "Magasin",
+          "delivreService": "1",
+          "eService": "0",
+          "commentaireService": "",
+          "numeroOrdreService": 9
+        },
+        {
+          "identifiant": "41",
+          "libelleService": "U Parapharmacie",
+          "cdTypeService": "MAG",
+          "lbTypeService": "Magasin",
+          "delivreService": "1",
+          "eService": "0",
+          "commentaireService": "",
+          "numeroOrdreService": 11
+        }
+      ],
+      "contacts": [
+        {
+          "codeTypeContact": "MAG",
+          "numeroOrdreContact": 1,
+          "codeTitreCivilite": "",
+          "nomContact": "",
+          "prenomContact": "",
+          "telephoneContact": "0299898940",
+          "portableContact": "",
+          "faxContact": "",
+          "emailContact": "superu.cancale@systeme-u.fr"
+        },
+        {
+          "codeTypeContact": "",
+          "numeroOrdreContact": 0,
+          "codeTitreCivilite": "",
+          "nomContact": "",
+          "prenomContact": "",
+          "telephoneContact": "",
+          "portableContact": "",
+          "faxContact": "",
+          "emailContact": ""
+        },
+        {
+          "codeTypeContact": "205",
+          "numeroOrdreContact": 0,
+          "codeTitreCivilite": "",
+          "nomContact": "",
+          "prenomContact": "",
+          "telephoneContact": "",
+          "portableContact": "",
+          "faxContact": "",
+          "emailContact": ""
+        },
+        {
+          "codeTypeContact": "206",
+          "numeroOrdreContact": 0,
+          "codeTitreCivilite": "",
+          "nomContact": "",
+          "prenomContact": "",
+          "telephoneContact": "",
+          "portableContact": "",
+          "faxContact": "",
+          "emailContact": ""
+        },
+        {
+          "codeTypeContact": "156",
+          "numeroOrdreContact": 0,
+          "codeTitreCivilite": "",
+          "nomContact": "",
+          "prenomContact": "",
+          "telephoneContact": "",
+          "portableContact": "",
+          "faxContact": "",
+          "emailContact": "superu.cancale.coursesu@systeme-u.fr"
+        },
+        {
+          "codeTypeContact": "154",
+          "numeroOrdreContact": 0,
+          "codeTitreCivilite": "",
+          "nomContact": "",
+          "prenomContact": "",
+          "telephoneContact": "",
+          "portableContact": "",
+          "faxContact": "",
+          "emailContact": ""
+        },
+        {
+          "codeTypeContact": "200",
+          "numeroOrdreContact": 0,
+          "codeTitreCivilite": "",
+          "nomContact": "",
+          "prenomContact": "",
+          "telephoneContact": "",
+          "portableContact": "",
+          "faxContact": "",
+          "emailContact": ""
+        },
+        {
+          "codeTypeContact": "204",
+          "numeroOrdreContact": 0,
+          "codeTitreCivilite": "",
+          "nomContact": "",
+          "prenomContact": "",
+          "telephoneContact": "",
+          "portableContact": "",
+          "faxContact": "",
+          "emailContact": ""
+        },
+        {
+          "codeTypeContact": "201",
+          "numeroOrdreContact": 0,
+          "codeTitreCivilite": "",
+          "nomContact": "",
+          "prenomContact": "",
+          "telephoneContact": "",
+          "portableContact": "",
+          "faxContact": "",
+          "emailContact": ""
+        },
+        {
+          "codeTypeContact": "203",
+          "numeroOrdreContact": 0,
+          "codeTitreCivilite": "",
+          "nomContact": "",
+          "prenomContact": "",
+          "telephoneContact": "",
+          "portableContact": "",
+          "faxContact": "",
+          "emailContact": ""
+        },
+        {
+          "codeTypeContact": "DIR",
+          "numeroOrdreContact": 0,
+          "codeTitreCivilite": "M",
+          "nomContact": "COUPRIE",
+          "prenomContact": "Bernard",
+          "telephoneContact": "",
+          "portableContact": "",
+          "faxContact": "",
+          "emailContact": ""
+        },
+        {
+          "codeTypeContact": "SOC",
+          "numeroOrdreContact": 0,
+          "codeTitreCivilite": "",
+          "nomContact": "SASU LH DISCAN",
+          "prenomContact": "",
+          "telephoneContact": "",
+          "portableContact": "",
+          "faxContact": "",
+          "emailContact": ""
+        },
+        {
+          "codeTypeContact": "ASS",
+          "numeroOrdreContact": 1,
+          "codeTitreCivilite": "M",
+          "nomContact": "LE HERAN       RPT DLH FINANCE",
+          "prenomContact": "Denis",
+          "telephoneContact": "",
+          "portableContact": "",
+          "faxContact": "",
+          "emailContact": "denis.leheran@systeme-u.fr"
+        }
+      ],
+      "concepts": [],
+      "typesModeRemise": [
+        {
+          "code": "RMG",
+          "libelle": "Retrait magasin",
+          "actif": "1",
+          "paiementEnLigneAutorise": "0"
+        },
+        {
+          "code": "PRE",
+          "libelle": "Point Relais",
+          "actif": "1",
+          "paiementEnLigneAutorise": "1"
+        },
+        {
+          "code": "LIV",
+          "libelle": "Livraison à domicile",
+          "actif": "1",
+          "paiementEnLigneAutorise": "1"
+        }
+      ],
+      "modesRemise": [
+        {
+          "id": 142,
+          "libelle": "Retrait magasin",
+          "type": "RMG",
+          "libelleType": "",
+          "typePointRelais": "",
+          "libelleTypePointRelais": "",
+          "actif": "1",
+          "latitudeLambert2": 0,
+          "longitudeLambert2": 0,
+          "latitudeGPS": 0.0,
+          "longitudeGPS": 0.0,
+          "adresseL1": "défaut",
+          "adresseL2": "Pt Roumagoua",
+          "codePostal": "13600",
+          "ville": "La Ciotat",
+          "contact": {
+            "codeTypeContact": "MDR",
+            "numeroOrdreContact": 1,
+            "codeTitreCivilite": "",
+            "nomContact": "",
+            "prenomContact": "",
+            "telephoneContact": "",
+            "portableContact": "",
+            "faxContact": "",
+            "emailContact": ""
+          },
+          "horaires": [
+            {
+              "numJour": 1,
+              "heureOuvertureMatin": "00.00",
+              "heureFermetureMatin": "00.00",
+              "heureOuvertureApresMidi": "00.00",
+              "heureFermetureApresMidi": "00.00"
+            },
+            {
+              "numJour": 2,
+              "heureOuvertureMatin": "00.00",
+              "heureFermetureMatin": "00.00",
+              "heureOuvertureApresMidi": "00.00",
+              "heureFermetureApresMidi": "00.00"
+            },
+            {
+              "numJour": 3,
+              "heureOuvertureMatin": "00.00",
+              "heureFermetureMatin": "00.00",
+              "heureOuvertureApresMidi": "00.00",
+              "heureFermetureApresMidi": "00.00"
+            },
+            {
+              "numJour": 4,
+              "heureOuvertureMatin": "00.00",
+              "heureFermetureMatin": "00.00",
+              "heureOuvertureApresMidi": "00.00",
+              "heureFermetureApresMidi": "00.00"
+            },
+            {
+              "numJour": 5,
+              "heureOuvertureMatin": "00.00",
+              "heureFermetureMatin": "00.00",
+              "heureOuvertureApresMidi": "00.00",
+              "heureFermetureApresMidi": "00.00"
+            },
+            {
+              "numJour": 6,
+              "heureOuvertureMatin": "00.00",
+              "heureFermetureMatin": "00.00",
+              "heureOuvertureApresMidi": "00.00",
+              "heureFermetureApresMidi": "00.00"
+            },
+            {
+              "numJour": 7,
+              "heureOuvertureMatin": "00.00",
+              "heureFermetureMatin": "00.00",
+              "heureOuvertureApresMidi": "00.00",
+              "heureFermetureApresMidi": "00.00"
+            }
+          ],
+          "modesPaiement": [],
+          "evenements": []
+        },
+        {
+          "id": 279,
+          "libelle": "TestALRDrTruck",
+          "type": "PRE",
+          "libelleType": "Point Relais",
+          "typePointRelais": "DRT",
+          "libelleTypePointRelais": "",
+          "actif": "1",
+          "latitudeLambert2": 0,
+          "longitudeLambert2": 0,
+          "latitudeGPS": 0.0,
+          "longitudeGPS": 0.0,
+          "adresseL1": "TESTALR",
+          "adresseL2": "TESTALR ligne 1",
+          "codePostal": "71100",
+          "ville": "Chalon sur saone",
+          "contact": {
+            "codeTypeContact": "MDR",
+            "numeroOrdreContact": 1,
+            "codeTitreCivilite": "",
+            "nomContact": "",
+            "prenomContact": "",
+            "telephoneContact": "",
+            "portableContact": "",
+            "faxContact": "",
+            "emailContact": ""
+          },
+          "horaires": [
+            {
+              "numJour": 1,
+              "heureOuvertureMatin": "00.00",
+              "heureFermetureMatin": "00.00",
+              "heureOuvertureApresMidi": "00.00",
+              "heureFermetureApresMidi": "00.00"
+            },
+            {
+              "numJour": 2,
+              "heureOuvertureMatin": "00.00",
+              "heureFermetureMatin": "00.00",
+              "heureOuvertureApresMidi": "00.00",
+              "heureFermetureApresMidi": "00.00"
+            },
+            {
+              "numJour": 3,
+              "heureOuvertureMatin": "00.00",
+              "heureFermetureMatin": "00.00",
+              "heureOuvertureApresMidi": "00.00",
+              "heureFermetureApresMidi": "00.00"
+            },
+            {
+              "numJour": 4,
+              "heureOuvertureMatin": "00.00",
+              "heureFermetureMatin": "00.00",
+              "heureOuvertureApresMidi": "00.00",
+              "heureFermetureApresMidi": "00.00"
+            },
+            {
+              "numJour": 5,
+              "heureOuvertureMatin": "00.00",
+              "heureFermetureMatin": "00.00",
+              "heureOuvertureApresMidi": "00.00",
+              "heureFermetureApresMidi": "00.00"
+            },
+            {
+              "numJour": 6,
+              "heureOuvertureMatin": "00.00",
+              "heureFermetureMatin": "00.00",
+              "heureOuvertureApresMidi": "00.00",
+              "heureFermetureApresMidi": "00.00"
+            },
+            {
+              "numJour": 7,
+              "heureOuvertureMatin": "00.00",
+              "heureFermetureMatin": "00.00",
+              "heureOuvertureApresMidi": "00.00",
+              "heureFermetureApresMidi": "00.00"
+            }
+          ],
+          "modesPaiement": [
+            {
+              "code": "AME",
+              "libelle": "Américan Express",
+              "disponible": "1"
+            },
+            {
+              "code": "ESP",
+              "libelle": "Espèces",
+              "disponible": "1"
+            },
+            {
+              "code": "MSC",
+              "libelle": "Mastercard",
+              "disponible": "1"
+            }
+          ],
+          "evenements": [
+            {
+              "identifiant": "7",
+              "cdType": "OUV",
+              "libelle": "OuvertureExceptionnelle",
+              "commentaire": "De 09:00 à 11:40 et de 16:20 à 18:45",
+              "dateDebut": "2021-12-24",
+              "dateFin": "2021-12-24",
+              "dateDebutValidite": "2020-12-19",
+              "dateFinValidite": "2023-12-25",
+              "actif": "1"
+            },
+            {
+              "identifiant": "10",
+              "cdType": "FER",
+              "libelle": "FermetureExceptionnelle",
+              "commentaire": "",
+              "dateDebut": "2022-02-14",
+              "dateFin": "2022-02-14",
+              "dateDebutValidite": "2021-02-09",
+              "dateFinValidite": "2023-02-15",
+              "actif": "1"
+            }
+          ]
+        }
+      ],
+      "nomsJourSemaine": [
+        "Lundi",
+        "Mardi",
+        "Mercredi",
+        "Jeudi",
+        "Vendredi",
+        "Samedi",
+        "Dimanche"
+      ]
+    }
+  ]
+}
